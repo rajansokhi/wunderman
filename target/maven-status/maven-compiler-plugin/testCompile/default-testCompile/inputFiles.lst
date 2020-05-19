@@ -1,0 +1,8 @@
+/Users/user1/WORKSPACE/FE_simple_framework/src/test/java/bddtests/stepDefs/login_stepdefs.java
+/Users/user1/WORKSPACE/FE_simple_framework/src/test/java/bddtests/pageObjects/LoginPage.java
+/Users/user1/WORKSPACE/FE_simple_framework/src/test/java/bddtests/utils/RunCukesTest.java
+/Users/user1/WORKSPACE/FE_simple_framework/src/test/java/bddtests/utils/Hooks.java
+/Users/user1/WORKSPACE/FE_simple_framework/src/test/java/bddtests/utils/BrowserDriver.java
+/Users/user1/WORKSPACE/FE_simple_framework/src/test/java/bddtests/utils/Wait.java
+/Users/user1/WORKSPACE/FE_simple_framework/src/test/java/bddtests/selectors/LoginSelectors.java
+/Users/user1/WORKSPACE/FE_simple_framework/src/test/java/bddtests/utils/TestConstants.java
